@@ -34866,10 +34866,10 @@
         }
       },
       "links": {
-        "LicenseTools": "0xBf0eAA0E9adBb1b887d229E1CE1A65133d5650f3"
+        "LicenseTools": "0xe10A882c9AE4a8cE3A8eAAEf962907844dFb080A"
       },
-      "address": "0xEdA6B2fd29130AC790af0F57e11a2718c05AaAd7",
-      "transactionHash": "0x8035c226018413ef8ab75ff68dd4ad480a833d21da432755d10965acb05a87e3"
+      "address": "0x2db155AEFc02907a0a8C01336C476d3AC736212b",
+      "transactionHash": "0xf814d9677345c61023ee0cebfc32d9ed66396ba92fab00c69d2cff8c2fb77593"
     },
     "1641816335404": {
       "events": {
@@ -35058,7 +35058,7 @@
     }
   },
   "schemaVersion": "3.4.3",
-  "updatedAt": "2022-04-18T18:08:02.500Z",
+  "updatedAt": "2022-05-16T21:48:29.360Z",
   "networkType": "ethereum",
   "devdoc": {
     "events": {
