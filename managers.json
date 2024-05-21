@@ -1,0 +1,12 @@
+[
+    {
+        "id": 0,
+        "name": "polygon",
+        "manager": "0x062D739A3c7275C49790B8869afbCB84684b3016"
+    },
+    {
+        "id": 1,
+        "name": "avalanche",
+        "manager": "0xDC0d4f376FF2cA5E443e773bF16c1146d55ed16E"
+    }
+]
